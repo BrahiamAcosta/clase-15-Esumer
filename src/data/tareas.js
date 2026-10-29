@@ -64,3 +64,4 @@ const tareas = [
     estado: "Completada",
   },
 ];
+export default tareas;
